@@ -11,6 +11,11 @@ h1{color:grey;font-family:verdana}
     margin-right: auto;
 }
 
+.contents
+{
+    margin-left: 80px;
+}
+
 .highlight
 {
     background-color: #ffff00;
